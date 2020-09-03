@@ -10,6 +10,16 @@ Performance of econometric and Machine Learning models for the economic study of
 
 Performances des modèles économétriques et de Machine Learning pour l’étude économique des choix discrets de consommation
 
+## Mots clés (de 3 à 6)
+
+*Anglais:*
+
+Consumer Choice, Preference Studies, Econometrics, Data Science, Machine Learning, Synthetic Datasets
+
+*Français:*
+
+Choix du consommateur, \'Etudes de Préférences, \'Econométrie, Science des Données, Apprentissage Automatique, Données Synthétiques
+
 ## Résumé du projet de recherche
 
 *Anglais:*
