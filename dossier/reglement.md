@@ -75,7 +75,9 @@ Ce qu'on peu en tirer:
 
 ## Autres formation qui puissent être interessantes 
 
-Les formations figurant sur le [site MSTII](https://www.adum.fr/as/ed/page.pl?site=edmstii&page=modules), la liste peut changer pour l'année 2020-2021
+*Les Collèges Doctoraux des établissements co-accréditeurs de l'ED proposent des formations communes à toutes les ED.*
+
+Les formations figurant sur le [site MSTII](https://www.adum.fr/as/ed/page.pl?site=edmstii&page=modules), la liste peut changer pour l'année 2020-2021.
 
 - Méthode de conduite d’une recherche expérimentale : production et analyse de données
 
